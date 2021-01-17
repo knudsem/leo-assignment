@@ -1,6 +1,6 @@
 # leo-assignment
 
-Assignment for forent end developer job for leO company
+Assignment for front-end end developer job for leO company
 
 
 This is a react-github app that allow you to search users and view their profiles(following, followers , repos)
