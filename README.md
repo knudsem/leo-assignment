@@ -2,8 +2,9 @@
 
 Assignment for front-end end developer job for leO company
 
+Done with React, Axios and reactstrap
 
-This is a react-github app that allow you to search users and view their profiles(following, followers , repos)
+This is github user search app that allow you to search and view github profiles(following, followers , repos)
 It is also showing the number of users and able to go to their profile directly on github
 
 Go to the file directory
